@@ -1,3 +1,6 @@
 #config for theme
 
-remote_theme: pages-themes/hacker@v0.2.0
+title: jk-mayne
+description: Another Hacker Site
+show_downloads: true
+theme: pages-themes/hacker@v0.2.0
