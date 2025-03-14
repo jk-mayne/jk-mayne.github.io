@@ -2,11 +2,17 @@
 layout: default
 ---
 
-# This is a header
+# whoami
 
-# Another header
+* Full time pentester since 2017 
+** Web apps, Mobile apps, net pen, AD, IoT, 
 
+## Certs
 
-<html>
-<p>some content</p>
-</html>
+*	OSCP
+*	eWPT
+*	eMAPT
+
+## Schooling
+
+*	Bachelor of Science in Computer Engineering from University of Missouri
